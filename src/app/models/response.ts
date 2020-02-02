@@ -1,0 +1,3 @@
+class FileResponse {
+    result: any;
+}
